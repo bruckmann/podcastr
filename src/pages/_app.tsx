@@ -14,6 +14,7 @@ function MyApp({ Component, pageProps }) {
       </main>
       <Player />
     </div>
+
   );
 }
 
